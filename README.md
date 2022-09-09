@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Spocxy/Luc
+- 👋 Hi, I’m Luc van Dijk
 - 👀 I’m interested in beans
 - 🌱 I’m currently learning beans
 - 💞️ I’m looking to collaborate on beans
